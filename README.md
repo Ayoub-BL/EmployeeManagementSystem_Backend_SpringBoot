@@ -14,10 +14,10 @@ https://github.com/Ayoub-BL/EmployeeManagementSystem_Frontend_Angular
 ### Screenshots :
 
 #### List of Employees
-<img align="center" src="screenshots/employees.png" alt="Login interface">
+<img align="center" src="screenshots/employees.png" alt="employees interface">
 
 #### Add Employee
-<img align="center" src="screenshots/add_employee.png" alt="Register interface">
+<img align="center" src="screenshots/add_employee.png" alt="Add Employee interface">
 
 ## Tech
 - Angular
